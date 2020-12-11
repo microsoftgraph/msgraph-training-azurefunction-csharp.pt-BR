@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f55eecd4d157c945d0e95870d4e481653b26c9ec
-ms.sourcegitcommit: 57a5c2e1a562d8af092a3e78786d711ce1e8f9cb
+ms.openlocfilehash: eb227079656e2a57550511c3abfacb49935fe46a
+ms.sourcegitcommit: 141fe5c30dea84029ef61cf82558c35f2a744b65
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48822530"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49655237"
 ---
 <!-- markdownlint-disable MD002 MD041 -->
 
@@ -48,7 +48,7 @@ Reserve um tempo para considerar o que o código no **ClientCredentialsAuthProvi
 
 1. Substitua a função `GetAppGraphClient` existente pelo seguinte.
 
-    :::code language="csharp" source="../demo/GraphTutorial/Services/GraphClientService.cs" id="AppGraphClientMembers":::
+    :::code language="csharp" source="../demo/GraphTutorial/Services/GraphClientService.cs" id="AppGraphClientFunctions":::
 
 ## <a name="implement-notify-function"></a>Implementar função Notify
 
